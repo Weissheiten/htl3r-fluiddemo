@@ -1,0 +1,3 @@
+
+Notice: Undefined index: VendorName\PackageName\ in D:\xampp\htdocs\FluidDemo\vendor\typo3\fluid-schema-generator\bin\generateschema on line 39
+Directory "" does not exist but is declared in composer autoload entries

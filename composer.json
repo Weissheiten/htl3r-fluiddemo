@@ -1,0 +1,18 @@
+{
+    "name": "htl3r/fluiddemo",
+    "description": "Demonstration for using fluid with plain php",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Florian Weiss",
+            "email": "github@weissheiten.at"
+        }
+    ],
+    "require": {
+        "typo3fluid/fluid": "^2.4"
+    },
+    "require-dev": {
+        "typo3/fluid-schema-generator": "^2.1"
+    }
+}
